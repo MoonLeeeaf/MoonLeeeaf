@@ -1,6 +1,6 @@
 Hello！我是满月叶☘️
 
-很高兴遇到热爱开源和学习的你💜
+很高兴可以遇到热爱开源和学习的你💜
 
 <!---
 MoonLeeeaf/MoonLeeeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
