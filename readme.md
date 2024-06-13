@@ -1,8 +1,10 @@
 ## Hello! I'm 满月叶 ☘️
 
-Now I can't speak English as well as others, so I'm sorry that there are many texts written by me are only in Chinese (｡･ω･｡)
+Dear foreigners: Now I can't speak English as well as others, so I'm sorry that there are many texts written by me are only in Chinese (｡･ω･｡)
 
-现在正在致力于 铃之椅 的项目开发，以及我团队内的项目开发，这是我目前最大的一个项目 :D
+### 最近的事业
+
+现在正在致力于 铃之椅 的项目开发，这是我目前最大的一个项目 :D
 
 ### Languages / 编程语言
 
