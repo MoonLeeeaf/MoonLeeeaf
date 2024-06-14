@@ -1,6 +1,6 @@
 ## Hello! I'm 满月叶 ☘️
 
-Dear foreigners: Now I can't speak English as well as others, so I'm sorry that there are many texts written by me are only in Chinese (｡･ω･｡)
+I'm a junior high school student, a small developer and a Chinese. Now I'm preparing for "生地中考" (｡･ω･｡)
 
 ### 最近的事业
 
