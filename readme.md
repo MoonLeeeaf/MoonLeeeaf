@@ -1,6 +1,6 @@
 ## Hello! I'm 满月叶 ☘️
 
-I'm a junior high school student, a small developer and a Chinese. Now I'm preparing for a  (｡･ω･｡)
+I'm a junior high school student, a small developer and a Chinese. Now I'm preparing for the final exam  (｡･ω･｡)
 
 ### 最近的事业
 
