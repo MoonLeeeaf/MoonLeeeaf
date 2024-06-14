@@ -1,10 +1,12 @@
 ## Hello! I'm 满月叶 ☘️
 
-I'm a junior high school student, a small developer and a Chinese. Now I'm preparing for "生地中考" (｡･ω･｡)
+I'm a junior high school student, a small developer and a Chinese. Now I'm preparing for a  (｡･ω･｡)
 
 ### 最近的事业
 
-现在正在致力于 铃之椅 的项目开发，这是我目前最大的一个项目 :D
+现在正在致力于 铃之椅 的项目开发，这是我目前最大的一个项目🛠️
+
+另外还要生地中考，祝我们顺利😋
 
 ### Languages / 编程语言
 
@@ -15,11 +17,12 @@ I'm a junior high school student, a small developer and a Chinese. Now I'm prepa
 
 * 写代码💻
 * 品味美食🍟
-* ~~女装（bushi）~~
+* ~~女装~~
 
 ### Reach me / 联系我
 
-I'm sorry that it's not available now / 我很懒，还没有提供捏 :(
+这还得等我去补充🧐
+
 <!---
 MoonLeeeaf/MoonLeeeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
