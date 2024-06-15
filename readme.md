@@ -2,9 +2,9 @@
 
 I'm a junior high school student and a small developer from China. Now I'm preparing for the final exam  (｡･ω･｡)
 
-### 最近的事业
+### Things I'm working on recently / 最近的事业
 
-现在正在致力于 铃之椅 的项目开发，这是我目前最大的一个项目🛠️
+现在正在致力于 LingChair 的项目开发，这是我目前最大的一个项目🛠️
 
 另外还要生地中考，祝我们顺利😋
 
@@ -12,6 +12,7 @@ I'm a junior high school student and a small developer from China. Now I'm prepa
 
 * JavaScript
 * Java
+* Lua
 
 ### Favourites / 爱好
 
