@@ -13,5 +13,5 @@
   * MC、MN、TR玩家,目前正在玩泥砖菜盘
 
 #### 联系我💮
-  * G‌i‌t‌H‌u‌b [@MoonLeeeaf](github.com/MoonLeeeaf)
-  * Codemao [@满月叶](shequ.codemao.cn/user/11770768)
+  * G‌i‌t‌H‌u‌b [@MoonLeeeaf](https://github.com/MoonLeeeaf)
+  * Codemao [@满月叶](htps://shequ.codemao.cn/user/11770768)
