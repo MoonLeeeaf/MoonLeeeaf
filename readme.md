@@ -4,14 +4,14 @@
 
 我是满月叶, 一个小技术宅
 
-还请多多指教🍉
+请多指教🍉
 
 #### 关于我🌷
-  * 初三的一个学生
-  * 开发者,喜欢研究有趣的东西
-  * 普通人,热爱一切可爱的事物
-  * 曾经是 MC、MN、TR 玩家,现在无聊到只剩下 Ace Attorney
+  * 初三学生
+  * 喜欢研究有趣的东西
+  * 热爱一切可爱的事物
+  * 曾是 MC、MN、TR 玩家,现在只剩 Ace Attorney
 
 #### 联系我💮
   * G‌i‌t‌H‌u‌b [@MoonLeeeaf](https://github.com/MoonLeeeaf)
-  <!-- * Codemao [@满月叶](https://shequ.codemao.cn/user/11770768) -->
+  <!-- * Codemao [@满月叶](https://shequ.codemao.cn/user/11770768) --><!-- 早该退毛这个破地方了 只可惜了我的极品号 -->
